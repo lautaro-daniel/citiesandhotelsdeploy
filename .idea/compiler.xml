@@ -7,13 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-sv" />
+        <module name="cities-service" />
+        <module name="hotels-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-gateway" target="17" />
-      <module name="cities-service" target="17" />
       <module name="config-server" target="17" />
-      <module name="hotels-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -21,7 +21,7 @@
       <module name="api-gateway" options="-parameters" />
       <module name="cities-service" options="-parameters" />
       <module name="config-server" options="-parameters" />
-      <module name="eureka-sv" options="" />
+      <module name="eureka-sv" options="-parameters" />
       <module name="hotels-service" options="-parameters" />
     </option>
   </component>
