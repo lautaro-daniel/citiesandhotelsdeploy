@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/cities-service/cities-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-sv/eureka-sv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-sv/eureka-sv/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hotels-service/hotels-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
